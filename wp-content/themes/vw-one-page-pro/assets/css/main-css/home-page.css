@@ -1611,7 +1611,8 @@ section h4 {
     }
 
     .tabpanel_hide-img2 {
-        display: inline-flex;
+        display: block;
+    margin-bottom: 20px;
     }
 
 }
@@ -1751,16 +1752,19 @@ section h4 {
 
     .flag {
         width: 8px;
-        height: 80px;
+        height: 55px;
         margin-right: 10px;
+         margin-left: 10px;
     }
 
     .block_patriot-text {
-        font-size: 15px;
+        font-size: 12px;
+        margin-bottom: 3px;
     }
 
     .block_patriot-h2 {
-        font-size: 25px;
+        font-size: 20px;
+        margin-bottom: 3px;
     }
 
     .footer_timetable {
@@ -1805,7 +1809,7 @@ section h4 {
 
 
 
-    .tab-content>.active {
+    .tab-border.active {
         border-left: 3px solid #a9b63f;
         padding-left: 10px;
     }
@@ -1813,6 +1817,10 @@ section h4 {
     .nav .flex-column .nav-pills {
         text-align: center;
     }
+
+    .main_sociobox {
+    padding: 10px 0;
+}
 
 }
 
