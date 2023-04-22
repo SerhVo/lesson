@@ -1,0 +1,118 @@
+/*
+   Vw Social Media Plugin Page Style
+*/
+.vwsmp a{
+  padding: 4px 8px;
+  font-size: 18px;
+  text-align: center;
+  text-decoration: none;
+  color: #fff ; 
+}
+.vwsmp a:visited {
+     color: #fff; 
+}
+.vwsmp_front a{
+  padding: 5px 7px;
+  font-size: 18px;
+  text-align: center;
+  text-decoration: none;
+  color: #fff ;
+  margin: 0 2px;
+}
+.vwsmp_front a {
+  display: inline-block;
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 5px;
+  height: 35px;
+  width: 35px;
+}
+.left-center{
+  left: 0;
+  top: 50%;
+  position: fixed;
+  z-index: 999999;
+  display: grid;
+  transform: translateY(-50%);
+}
+.right-center{
+  right: 0;
+  top: 50%;
+  position: fixed;
+  z-index: 999999;
+  display: grid;
+  transform: translateY(-50%);
+}
+.top-center{
+  top: 0;
+  left: 50%;
+  position: fixed;
+  z-index: 999999;
+  display: inline-block;
+  transform: translateX(-50%);
+}
+.bottom-center{
+  bottom : 0;
+  left: 50%;
+  position: fixed;
+  z-index: 999999;
+  display: table;
+  transform: translateX(-50%);
+}
+.vwsmp_facebook {
+  background: #3B5998;
+}
+.vwsmp_rss{
+  background: #ea7819;
+}
+.vwsmp_twitter {
+  background: #55ACEE;
+}
+.vwsmp_google {
+  background: #dd4b39;
+}
+.vwsmp_youtube {
+  background: #bb0000;
+}
+.vwsmp_instagram {
+  background: #125688;
+}
+.fa-pinterest {
+  background: #cb2027;
+}
+.vwsmp_skype {
+  background: #00aff0;
+}
+.vwsmp_tumblr {
+  background: #2c4762;
+}
+.vwsmp_flickr {
+  background: #f40083;
+}
+.vwsmp_pinterest{
+   background: #df0019;
+}
+.vwsmp_wordpress{
+	background: #21759b;
+}
+.vwsmp_vk{
+	background: #5181b8;
+}
+.vwsmp_social a:hover{
+	color: #fff;
+}
+.vwsmp_front a:visited {
+  color: #fff; 
+}
+.circle-style{
+  border-radius: 50%;
+}
+.rounded-style{
+  border-radius: 10px;
+}
+.square-style{
+  border-radius: 0;
+}
+.vwsmp_custom_1, .vwsmp_custom_2, .vwsmp_custom_4, .vwsmp_custom_5, .vwsmp_custom_3{
+  background: #000;
+}

@@ -1,0 +1,26 @@
+{
+    "id": 1,
+    "name": "admin_b",
+    "url": "http:\/\/gmile.com.ua",
+    "description": "",
+    "link": "http:\/\/gmile.com.ua\/author\/admin_b\/",
+    "slug": "admin_b",
+    "avatar_urls": {
+        "24": "http:\/\/2.gravatar.com\/avatar\/56adb48a8abc1f66c7e3f4a5133e28b1?s=24&d=mm&r=g",
+        "48": "http:\/\/2.gravatar.com\/avatar\/56adb48a8abc1f66c7e3f4a5133e28b1?s=48&d=mm&r=g",
+        "96": "http:\/\/2.gravatar.com\/avatar\/56adb48a8abc1f66c7e3f4a5133e28b1?s=96&d=mm&r=g"
+    },
+    "meta": [],
+    "_links": {
+        "self": [
+            {
+                "href": "http:\/\/gmile.com.ua\/wp-json\/wp\/v2\/users\/1"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http:\/\/gmile.com.ua\/wp-json\/wp\/v2\/users"
+            }
+        ]
+    }
+}

@@ -1,0 +1,1664 @@
+Uri: http://1.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=100&d=mm&r=g
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\avatar\d7a973c7dab26985da5f961be7b74480.png
+Content Type: image/png
+
+Uri: http://1.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=200&d=mm&r=g
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\avatar\d7a973c7dab26985da5f961be7b74480-1.png
+Content Type: image/png
+
+Uri: http://fonts.googleapis.com/css?family=PT+Sans:300%2C400%2C600%2C700%2C800%2C900|Roboto:400%2C700|Roboto+Condensed:400%2C700|Open+Sans|Overpass|Montserrat:300%2C400%2C600%2C700%2C800%2C900|Playball:300%2C400%2C600%2C700%2C800%2C900|Alegreya:300%2C400%2C600%2C700%2C800%2C900|Julius+Sans+One|Arsenal|Slabo|Lato|Overpass+Mono|Source+Sans+Pro|Raleway:100%2C100i%2C200%2C200i%2C300%2C300i%2C400%2C400i%2C500%2C500i%2C600%2C600i%2C700%2C700i%2C800%2C800i%2C900%2C900i|Merriweather|Rubik|Lora|Ubuntu|Cabin|Arimo|Playfair+Display|Quicksand|Padauk|Muli|Inconsolata|Bitter|Pacifico|Indie+Flower|VT323|Dosis|Frank+Ruhl+Libre|Fjalla+One|Oxygen|Arvo|Noto+Serif|Lobster|Crimson+Text|Yanone+Kaffeesatz|Anton|Libre+Baskerville|Bree+Serif|Gloria+Hallelujah|Josefin+Sans:100%2C100i%2C300%2C300i%2C400%2C400i%2C600%2C600i%2C700%2C700i%26amp%3Bsubset%3Dlatin-ext%2Cvietnamese|Abril+Fatface|Varela+Round|Vampiro+One|Shadows+Into+Light|Cuprum|Rokkitt|Vollkorn|Francois+One|Orbitron|Patua+One|Acme|Satisfy|Josefin+Slab|Quattrocento+Sans|Architects+Daughter|Russo+One|Monda|Righteous|Lobster+Two|Hammersmith+One|Courgette|Permanent+Marker|Cherry+Swash|Cormorant+Garamond|Poiret+One|BenchNine|Economica|Handlee|Cardo|Alfa+Slab+One|Averia+Serif+Libre|Cookie|Chewy|Great+Vibes|Coming+Soon|Philosopher|Days+One|Kanit|Shrikhand|Tangerine|IM+Fell+English+SC|Boogaloo|Bangers|Fredoka+One|Bad+Script|Volkhov|Shadows+Into+Light+Two|Marck+Script|Sacramento|Poppins|PT+Serif&ver=6.2
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\css
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/abrilfatface/v19/zOL64pLDlL1D99S8g8PtiKchq-dmiA.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\abrilfatface\v19\zOL64pLDlL1D99S8g8PtiKchq-dmiA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/acme/v21/RrQfboBx-C5_XxrBaw.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\acme\v21\RrQfboBx-C5_XxrBaw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/alegreya/v35/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNG9hU4-6qm.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\alegreya\v35\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNG9hU4-6qm.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/alegreya/v35/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGdhI4-6qm.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\alegreya\v35\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGdhI4-6qm.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/alegreya/v35/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGERI4-6qm.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\alegreya\v35\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGERI4-6qm.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/alegreya/v35/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGKBI4-6qm.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\alegreya\v35\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGKBI4-6qm.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/alegreya/v35/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGXxI4-6qm.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\alegreya\v35\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGXxI4-6qm.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/alfaslabone/v17/6NUQ8FmMKwSEKjnm5-4v-4Jh2dJhfg.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\alfaslabone\v17\6NUQ8FmMKwSEKjnm5-4v-4Jh2dJhfg.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/anton/v23/1Ptgg87LROyAm3Kz-Co.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\anton\v23\1Ptgg87LROyAm3Kz-Co.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/architectsdaughter/v18/KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvTYlg5g.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\architectsdaughter\v18\KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvTYlg5g.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/arimo/v27/P5sfzZCDf9_T_3cV7NCUECyoxNk37cxcABrE.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\arimo\v27\P5sfzZCDf9_T_3cV7NCUECyoxNk37cxcABrE.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/arsenal/v12/wXKrE3kQtZQ4pF3D51jcBQ.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\arsenal\v12\wXKrE3kQtZQ4pF3D51jcBQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/arvo/v20/tDbD2oWUg0MKqScQ6A.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\arvo\v20\tDbD2oWUg0MKqScQ6A.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/averiaseriflibre/v16/neIWzD2ms4wxr6GvjeD0X88SHPyX2xYOoguK.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\averiaseriflibre\v16\neIWzD2ms4wxr6GvjeD0X88SHPyX2xYOoguK.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/badscript/v16/6NUT8F6PJgbFWQn47_x7pOskyQ.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\badscript\v16\6NUT8F6PJgbFWQn47_x7pOskyQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/bangers/v20/FeVQS0BTqb0h60ACH55Q3Q.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\bangers\v20\FeVQS0BTqb0h60ACH55Q3Q.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/benchnine/v16/ahcbv8612zF4jxrwMosbUMlx.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\benchnine\v16\ahcbv8612zF4jxrwMosbUMlx.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/bitter/v32/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLjOWA.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\bitter\v32\raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLjOWA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/boogaloo/v19/kmK-Zq45GAvOdnaW6y1C9y4.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\boogaloo\v19\kmK-Zq45GAvOdnaW6y1C9y4.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/breeserif/v17/4UaHrEJCrhhnVA3DgluA96rp4g.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\breeserif\v17\4UaHrEJCrhhnVA3DgluA96rp4g.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/cabin/v26/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkV2EH7alwg.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\cabin\v26\u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkV2EH7alwg.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/cardo/v19/wlp_gwjKBV1pqhv43IQ.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\cardo\v19\wlp_gwjKBV1pqhv43IQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/cherryswash/v18/i7dNIFByZjaNAMxtZcnfAy5MR3K6.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\cherryswash\v18\i7dNIFByZjaNAMxtZcnfAy5MR3K6.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/chewy/v18/uK_94ruUb-k-wn52Kjc.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\chewy\v18\uK_94ruUb-k-wn52Kjc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/comingsoon/v19/qWcuB6mzpYL7AJ2VfdQR1t-VWDw.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\comingsoon\v19\qWcuB6mzpYL7AJ2VfdQR1t-VWDw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/cookie/v17/syky-y18lb0tSbf9kgqX.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\cookie\v17\syky-y18lb0tSbf9kgqX.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/cormorantgaramond/v16/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtP.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\cormorantgaramond\v16\co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtP.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/courgette/v13/wEO_EBrAnc9BLjLQAUk1VvoP.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\courgette\v13\wEO_EBrAnc9BLjLQAUk1VvoP.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/crimsontext/v19/wlp2gwHKFkZgtmSR3NB0oRJfbwhW.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\crimsontext\v19\wlp2gwHKFkZgtmSR3NB0oRJfbwhW.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/cuprum/v24/dg45_pLmvrkcOkBnKsOzXyGWTBcmg-X6VjvYIg.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\cuprum\v24\dg45_pLmvrkcOkBnKsOzXyGWTBcmg-X6VjvYIg.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/daysone/v14/mem9YaCnxnKRiYZOCIYScr0.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\daysone\v14\mem9YaCnxnKRiYZOCIYScr0.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/dosis/v27/HhyJU5sn9vOmLxNkIwRSjTVNWLEJN7Ml2xMB.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\dosis\v27\HhyJU5sn9vOmLxNkIwRSjTVNWLEJN7Ml2xMB.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/economica/v13/Qw3fZQZaHCLgIWa29ZBbNsIE.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\economica\v13\Qw3fZQZaHCLgIWa29ZBbNsIE.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/fjallaone/v15/Yq6R-LCAWCX3-6Ky7FAFrOF6lw.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\fjallaone\v15\Yq6R-LCAWCX3-6Ky7FAFrOF6lw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/francoisone/v20/_Xmr-H4zszafZw3A-KPSZut9wQiU.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\francoisone\v20\_Xmr-H4zszafZw3A-KPSZut9wQiU.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/frankruhllibre/v18/j8_96_fAw7jrcalD7oKYNX0QfAnPcbzNEEB7OoicBw7FYWqXNRA.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\frankruhllibre\v18\j8_96_fAw7jrcalD7oKYNX0QfAnPcbzNEEB7OoicBw7FYWqXNRA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/fredokaone/v14/k3kUo8kEI-tA1RRcTZGmTlHGCaI.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\fredokaone\v14\k3kUo8kEI-tA1RRcTZGmTlHGCaI.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/gloriahallelujah/v17/LYjYdHv3kUk9BMV96EIswT9DIbW-MIS11zY.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\gloriahallelujah\v17\LYjYdHv3kUk9BMV96EIswT9DIbW-MIS11zY.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/greatvibes/v14/RWmMoKWR9v4ksMfaWd_JN9XFiaE.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\greatvibes\v14\RWmMoKWR9v4ksMfaWd_JN9XFiaE.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/hammersmithone/v17/qWcyB624q4L_C4jGQ9IK0O_dFlnrtREg.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\hammersmithone\v17\qWcyB624q4L_C4jGQ9IK0O_dFlnrtREg.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/handlee/v14/-F6xfjBsISg9aMakPm3wpg.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\handlee\v14\-F6xfjBsISg9aMakPm3wpg.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/imfellenglishsc/v16/a8IENpD3CDX-4zrWfr1VY879qFF05pZ7PIIK.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\imfellenglishsc\v16\a8IENpD3CDX-4zrWfr1VY879qFF05pZ7PIIK.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/inconsolata/v31/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp4U8WR32kg.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\inconsolata\v31\QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp4U8WR32kg.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/indieflower/v17/m8JVjfNVeKWVnh3QMuKkFcZVaUuC.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\indieflower\v17\m8JVjfNVeKWVnh3QMuKkFcZVaUuC.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/josefinsans/v25/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCT6oJRLSzt.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\josefinsans\v25\Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCT6oJRLSzt.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/josefinsans/v25/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTaoVRLSzt.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\josefinsans\v25\Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTaoVRLSzt.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/josefinsans/v25/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTtIJRLSzt.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\josefinsans\v25\Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTtIJRLSzt.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/josefinsans/v25/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTtINRLSzt.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\josefinsans\v25\Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTtINRLSzt.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/josefinsans/v25/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTU4VRLSzt.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\josefinsans\v25\Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTU4VRLSzt.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/josefinsans/v25/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQbMZhKg.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\josefinsans\v25\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQbMZhKg.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/josefinsans/v25/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjRbMZhKg.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\josefinsans\v25\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjRbMZhKg.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/josefinsans/v25/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_GbQbMZhKg.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\josefinsans\v25\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_GbQbMZhKg.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/josefinsans/v25/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_N_XbMZhKg.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\josefinsans\v25\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_N_XbMZhKg.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/josefinsans/v25/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_ObXbMZhKg.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\josefinsans\v25\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_ObXbMZhKg.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/josefinslab/v24/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W71msR349Lw.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\josefinslab\v24\lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W71msR349Lw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/juliussansone/v14/1Pt2g8TAX_SGgBGUi0tGOYEga5WOwnsS.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\juliussansone\v14\1Pt2g8TAX_SGgBGUi0tGOYEga5WOwnsS.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/kanit/v12/nKKZ-Go6G5tXcraVGwU.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\kanit\v12\nKKZ-Go6G5tXcraVGwU.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\lato\v23\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/librebaskerville/v14/kmKnZrc3Hgbbcjq75U4uslyuy4kn0qNZaxY.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\librebaskerville\v14\kmKnZrc3Hgbbcjq75U4uslyuy4kn0qNZaxY.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/lobster/v28/neILzCirqoswsqX9zoKmNg.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\lobster\v28\neILzCirqoswsqX9zoKmNg.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/lobstertwo/v18/BngMUXZGTXPUvIoyV6yN5-fN5qA.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\lobstertwo\v18\BngMUXZGTXPUvIoyV6yN5-fN5qA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/lora/v32/0QI6MX1D_JOuGQbT0gvTJPa787weuxJBkqg.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\lora\v32\0QI6MX1D_JOuGQbT0gvTJPa787weuxJBkqg.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/marckscript/v16/nwpTtK2oNgBA3Or78gapdwuyyCg6.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\marckscript\v16\nwpTtK2oNgBA3Or78gapdwuyyCg6.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-fCZJ.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\merriweather\v30\u-440qyriQwlOrhSvowK_l5-fCZJ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/monda/v16/TK3tWkYFABsmjsphPh8.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\monda\v16\TK3tWkYFABsmjsphPh8.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/muli/v28/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\muli\v28\7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/notoserif/v21/ga6Iaw1J5X9T9RW6j9bNfFcWbQ.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\notoserif\v21\ga6Iaw1J5X9T9RW6j9bNfFcWbQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/orbitron/v29/yMJMMIlzdpvBhQQL_SC3X9yhF25-T1nyGy6BoWg2.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\orbitron\v29\yMJMMIlzdpvBhQQL_SC3X9yhF25-T1nyGy6BoWg2.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/overpass/v12/qFda35WCmI96Ajtm83upeyoaX6QPnlo6_PPbPpqP.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\overpass\v12\qFda35WCmI96Ajtm83upeyoaX6QPnlo6_PPbPpqP.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/overpassmono/v15/_Xm5-H86tzKDdAPa-KPQZ-AC_COcRycquHlL6EXUonz0VO4.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\overpassmono\v15\_Xm5-H86tzKDdAPa-KPQZ-AC_COcRycquHlL6EXUonz0VO4.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/oxygen/v15/2sDfZG1Wl4LcnbuKjk0j.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\oxygen\v15\2sDfZG1Wl4LcnbuKjk0j.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/pacifico/v22/FwZY7-Qmy14u9lezJ-6H6Mw.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\pacifico\v22\FwZY7-Qmy14u9lezJ-6H6Mw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/padauk/v16/RrQRboJg-id7OnbxbEXk.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\padauk\v16\RrQRboJg-id7OnbxbEXk.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/patuaone/v16/ZXuke1cDvLCKLDcimxB44_lr.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\patuaone\v16\ZXuke1cDvLCKLDcimxB44_lr.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/permanentmarker/v16/Fh4uPib9Iyv2ucM6pGQMWimMp004La2Ceg.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\permanentmarker\v16\Fh4uPib9Iyv2ucM6pGQMWimMp004La2Ceg.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/philosopher/v19/vEFV2_5QCwIS4_Dhez5jcWBuT0g.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\philosopher\v19\vEFV2_5QCwIS4_Dhez5jcWBuT0g.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/playball/v16/TK3gWksYAxQ7jbsKcg8Ene8.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\playball\v16\TK3gWksYAxQ7jbsKcg8Ene8.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/poiretone/v14/UqyVK80NJXN4zfRgbdfbo55cUg.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\poiretone\v14\UqyVK80NJXN4zfRgbdfbo55cUg.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/ptsans/v17/jizaRExUiTo99u79D0KEwA.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\ptsans\v17\jizaRExUiTo99u79D0KEwA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/ptsans/v17/jizfRExUiTo99u79B_mh0O6tKA.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\ptsans\v17\jizfRExUiTo99u79B_mh0O6tKA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/ptserif/v17/EJRVQgYoZZY2vCFuvAFWzro.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\ptserif\v17\EJRVQgYoZZY2vCFuvAFWzro.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/quattrocentosans/v18/va9c4lja2NVIDdIAAoMR5MfuElaRB0zJt0o.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\quattrocentosans\v18\va9c4lja2NVIDdIAAoMR5MfuElaRB0zJt0o.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/quicksand/v30/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58a-xw.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\quicksand\v30\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58a-xw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLDrMfJQ.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLDrMfJQ.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLDrMfJQ.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMDrMfJQ.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMDrMfJQ.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMDrMfJQ.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDrMfJQ.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNDrMfJQ.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LDrMfJQ.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/righteous/v13/1cXxaUPXBpj2rGoU7C9WiHGA.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\righteous\v13\1cXxaUPXBpj2rGoU7C9WiHGA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/robotocondensed/v25/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCQYag.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\robotocondensed\v25\ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCQYag.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/robotocondensed/v25/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7CA.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\robotocondensed\v25\ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7CA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/rokkitt/v34/qFdb35qfgYFjGy5hukqqhw5XeRgdi1ryd6DMGbo.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\rokkitt\v34\qFdb35qfgYFjGy5hukqqhw5XeRgdi1ryd6DMGbo.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/rubik/v26/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFV0Uw.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\rubik\v26\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFV0Uw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/russoone/v14/Z9XUDmZRWg6M1LvRYsHOz8mM.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\russoone\v14\Z9XUDmZRWg6M1LvRYsHOz8mM.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/sacramento/v13/buEzpo6gcdjy0EiZMBUG4C0f-A.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\sacramento\v13\buEzpo6gcdjy0EiZMBUG4C0f-A.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/satisfy/v17/rP2Hp2yn6lkG50LoCZOIGA.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\satisfy\v17\rP2Hp2yn6lkG50LoCZOIGA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/shadowsintolight/v15/UqyNK9UOIntux_czAvDQx_ZcHqZXBNQzdcD8.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\shadowsintolight\v15\UqyNK9UOIntux_czAvDQx_ZcHqZXBNQzdcD8.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/shadowsintolighttwo/v13/4iC86LVlZsRSjQhpWGedwyOoW-0A6_kpsyNmpAzHHA.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\shadowsintolighttwo\v13\4iC86LVlZsRSjQhpWGedwyOoW-0A6_kpsyNmpAzHHA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/shrikhand/v11/a8IbNovtLWfR7T7bMJwrA4KU.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\shrikhand\v11\a8IbNovtLWfR7T7bMJwrA4KU.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/sourcesanspro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\sourcesanspro\v21\6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/tangerine/v17/IurY6Y5j_oScZZow4VOxCZZJ.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\tangerine\v17\IurY6Y5j_oScZZow4VOxCZZJ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKfw7z.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\ubuntu\v20\4iCs6KVjbNBYlgoKfw7z.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/vampiroone/v18/gokqH6DoDl5yXvJytFsdLnqguPw.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\vampiroone\v18\gokqH6DoDl5yXvJytFsdLnqguPw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/varelaround/v20/w8gdH283Tvk__Lua32TysjIfp8uK.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\varelaround\v20\w8gdH283Tvk__Lua32TysjIfp8uK.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/volkhov/v17/SlGQmQieoJcKemNecTUEgA.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\volkhov\v17\SlGQmQieoJcKemNecTUEgA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/vollkorn/v21/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2MHGeHmmZ.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\vollkorn\v21\0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2MHGeHmmZ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/vt323/v17/pxiKyp0ihIEF2isfFJA.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\vt323\v17\pxiKyp0ihIEF2isfFJA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/yanonekaffeesatz/v24/3y9I6aknfjLm_3lMKjiMgmUUYBs04aUXNxt9gW2LIfto9tWZd2GP.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\s\yanonekaffeesatz\v24\3y9I6aknfjLm_3lMKjiMgmUUYBs04aUXNxt9gW2LIfto9tWZd2GP.ttf
+Content Type: font/ttf
+
+Uri: http://gmile.com.ua/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/2022/08/29/blog-1/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\2022\08\29\blog-1\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/2022/08/29/blog-1/feed/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\2022\08\29\blog-1\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://gmile.com.ua/2022/08/29/blog-2/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\2022\08\29\blog-2\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/2022/08/29/blog-2/feed/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\2022\08\29\blog-2\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://gmile.com.ua/2022/08/29/blog-3/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\2022\08\29\blog-3\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/2022/08/29/blog-3/feed/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\2022\08\29\blog-3\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://gmile.com.ua/2022/08/29/blog-4/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\2022\08\29\blog-4\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/2022/08/29/blog-4/feed/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\2022\08\29\blog-4\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://gmile.com.ua/2022/08/29/hello-world/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\2022\08\29\hello-world\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/2022/08/29/hello-world/?replytocom=1
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\2022\08\29\hello-world\index-1.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/2022/08/29/hello-world/feed/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\2022\08\29\hello-world\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://gmile.com.ua/2022/08/29/praesent-suscipit-m1/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\2022\08\29\praesent-suscipit-m1\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/2022/08/29/praesent-suscipit-m1/feed/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\2022\08\29\praesent-suscipit-m1\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://gmile.com.ua/2022/08/29/praesent-suscipit-m2/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\2022\08\29\praesent-suscipit-m2\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/2022/08/29/praesent-suscipit-m2/feed/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\2022\08\29\praesent-suscipit-m2\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://gmile.com.ua/2022/08/29/praesent-suscipit-m3/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\2022\08\29\praesent-suscipit-m3\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/2022/08/29/praesent-suscipit-m3/feed/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\2022\08\29\praesent-suscipit-m3\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://gmile.com.ua/author/admin_b/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\author\admin_b\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/author/admin_b/feed/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\author\admin_b\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://gmile.com.ua/category/uncategorized/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\category\uncategorized\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/category/uncategorized/feed/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\category\uncategorized\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://gmile.com.ua/comments/feed/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://gmile.com.ua/en/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/en/2022/08/29/blog-1/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\2022\08\29\blog-1\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/en/2022/08/29/blog-1/feed/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\2022\08\29\blog-1\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://gmile.com.ua/en/2022/08/29/blog-2/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\2022\08\29\blog-2\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/en/2022/08/29/blog-2/feed/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\2022\08\29\blog-2\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://gmile.com.ua/en/2022/08/29/blog-3/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\2022\08\29\blog-3\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/en/2022/08/29/blog-3/feed/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\2022\08\29\blog-3\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://gmile.com.ua/en/2022/08/29/blog-4/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\2022\08\29\blog-4\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/en/2022/08/29/blog-4/feed/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\2022\08\29\blog-4\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://gmile.com.ua/en/2022/08/29/hello-world/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\2022\08\29\hello-world\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/en/2022/08/29/hello-world/?replytocom=1
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\2022\08\29\hello-world\index-1.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/en/2022/08/29/hello-world/feed/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\2022\08\29\hello-world\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://gmile.com.ua/en/2022/08/29/praesent-suscipit-m1/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\2022\08\29\praesent-suscipit-m1\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/en/2022/08/29/praesent-suscipit-m1/feed/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\2022\08\29\praesent-suscipit-m1\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://gmile.com.ua/en/2022/08/29/praesent-suscipit-m2/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\2022\08\29\praesent-suscipit-m2\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/en/2022/08/29/praesent-suscipit-m2/feed/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\2022\08\29\praesent-suscipit-m2\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://gmile.com.ua/en/2022/08/29/praesent-suscipit-m3/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\2022\08\29\praesent-suscipit-m3\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/en/2022/08/29/praesent-suscipit-m3/feed/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\2022\08\29\praesent-suscipit-m3\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://gmile.com.ua/en/author/admin_b/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\author\admin_b\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/en/author/admin_b/feed/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\author\admin_b\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://gmile.com.ua/en/category/uncategorized/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\category\uncategorized\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/en/category/uncategorized/feed/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\category\uncategorized\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://gmile.com.ua/en/comments/feed/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://gmile.com.ua/en/feed/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://gmile.com.ua/en/testimonials/тест-видео-2/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\testimonials\тест-видео-2\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/en/testimonials/тест-видео/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\testimonials\тест-видео\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/en/testimonials/testimonial1/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\testimonials\testimonial1\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/en/testimonials/testimonial2/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\testimonials\testimonial2\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/en/testimonials/testimonial3/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\testimonials\testimonial3\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/en/wp-json/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://gmile.com.ua/en/wp-json/wp/v2/categories/1
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: http://gmile.com.ua/en/wp-json/wp/v2/pages/11
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\wp-json\wp\v2\pages\11
+Content Type: application/json
+
+Uri: http://gmile.com.ua/en/wp-json/wp/v2/posts/1
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\wp-json\wp\v2\posts\1
+Content Type: application/json
+
+Uri: http://gmile.com.ua/en/wp-json/wp/v2/posts/10
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\wp-json\wp\v2\posts\10
+Content Type: application/json
+
+Uri: http://gmile.com.ua/en/wp-json/wp/v2/posts/46
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\wp-json\wp\v2\posts\46
+Content Type: application/json
+
+Uri: http://gmile.com.ua/en/wp-json/wp/v2/posts/48
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\wp-json\wp\v2\posts\48
+Content Type: application/json
+
+Uri: http://gmile.com.ua/en/wp-json/wp/v2/posts/50
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\wp-json\wp\v2\posts\50
+Content Type: application/json
+
+Uri: http://gmile.com.ua/en/wp-json/wp/v2/posts/7
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\wp-json\wp\v2\posts\7
+Content Type: application/json
+
+Uri: http://gmile.com.ua/en/wp-json/wp/v2/posts/8
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\wp-json\wp\v2\posts\8
+Content Type: application/json
+
+Uri: http://gmile.com.ua/en/wp-json/wp/v2/posts/9
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\wp-json\wp\v2\posts\9
+Content Type: application/json
+
+Uri: http://gmile.com.ua/en/wp-json/wp/v2/users/1
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\en\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: http://gmile.com.ua/feed/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://gmile.com.ua/testimonials/тест-видео-2/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\testimonials\тест-видео-2\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/testimonials/тест-видео/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\testimonials\тест-видео\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/testimonials/testimonial1/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\testimonials\testimonial1\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/testimonials/testimonial2/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\testimonials\testimonial2\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/testimonials/testimonial3/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\testimonials\testimonial3\index.htm
+Content Type: text/html
+
+Uri: http://gmile.com.ua/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1670007154
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\akismet\_inc\akismet-frontend.js
+Content Type: application/javascript
+
+Uri: http://gmile.com.ua/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.4
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: http://gmile.com.ua/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.4
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: http://gmile.com.ua/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.4
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: http://gmile.com.ua/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.7.4
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\contact-form-7\modules\recaptcha\index.js
+Content Type: application/javascript
+
+Uri: http://gmile.com.ua/wp-content/plugins/ibtana-visual-editor/js/jquery.ive-countdown.min.js?ver=2.4.5
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\ibtana-visual-editor\js\jquery.ive-countdown.min.js
+Content Type: application/javascript
+
+Uri: http://gmile.com.ua/wp-content/plugins/translatepress-multilingual/assets/css/trp-language-switcher.css?ver=2.4.8
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\translatepress-multilingual\assets\css\trp-language-switcher.css
+Content Type: text/css
+
+Uri: http://gmile.com.ua/wp-content/plugins/translatepress-multilingual/assets/js/trp-translate-dom-changes.js?ver=2.4.8
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\translatepress-multilingual\assets\js\trp-translate-dom-changes.js
+Content Type: application/javascript
+
+Uri: http://gmile.com.ua/wp-content/plugins/vw-social-media/assets/css/fontawesome-all.min.css?ver=6.2
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\vw-social-media\assets\css\fontawesome-all.min.css
+Content Type: text/css
+
+Uri: http://gmile.com.ua/wp-content/plugins/vw-social-media/assets/css/vwsmp-style.css?ver=6.2
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\vw-social-media\assets\css\vwsmp-style.css
+Content Type: text/css
+
+Uri: http://gmile.com.ua/wp-content/plugins/vw-social-media/assets/webfonts/fa-brands-400.eot
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\vw-social-media\assets\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://gmile.com.ua/wp-content/plugins/vw-social-media/assets/webfonts/fa-brands-400.eot?
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\vw-social-media\assets\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://gmile.com.ua/wp-content/plugins/vw-social-media/assets/webfonts/fa-brands-400.svg
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\vw-social-media\assets\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://gmile.com.ua/wp-content/plugins/vw-social-media/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\vw-social-media\assets\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://gmile.com.ua/wp-content/plugins/vw-social-media/assets/webfonts/fa-brands-400.woff
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\vw-social-media\assets\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: http://gmile.com.ua/wp-content/plugins/vw-social-media/assets/webfonts/fa-brands-400.woff2
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\vw-social-media\assets\webfonts\fa-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: http://gmile.com.ua/wp-content/plugins/vw-social-media/assets/webfonts/fa-regular-400.eot
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\vw-social-media\assets\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://gmile.com.ua/wp-content/plugins/vw-social-media/assets/webfonts/fa-regular-400.eot?
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\vw-social-media\assets\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://gmile.com.ua/wp-content/plugins/vw-social-media/assets/webfonts/fa-regular-400.svg
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\vw-social-media\assets\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://gmile.com.ua/wp-content/plugins/vw-social-media/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\vw-social-media\assets\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://gmile.com.ua/wp-content/plugins/vw-social-media/assets/webfonts/fa-regular-400.woff
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\vw-social-media\assets\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: http://gmile.com.ua/wp-content/plugins/vw-social-media/assets/webfonts/fa-regular-400.woff2
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\vw-social-media\assets\webfonts\fa-regular-400.woff2
+Content Type: application/font-woff2
+
+Uri: http://gmile.com.ua/wp-content/plugins/vw-social-media/assets/webfonts/fa-solid-900.eot
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\vw-social-media\assets\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://gmile.com.ua/wp-content/plugins/vw-social-media/assets/webfonts/fa-solid-900.eot?
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\vw-social-media\assets\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://gmile.com.ua/wp-content/plugins/vw-social-media/assets/webfonts/fa-solid-900.svg
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\vw-social-media\assets\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://gmile.com.ua/wp-content/plugins/vw-social-media/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\vw-social-media\assets\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://gmile.com.ua/wp-content/plugins/vw-social-media/assets/webfonts/fa-solid-900.woff
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\vw-social-media\assets\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: http://gmile.com.ua/wp-content/plugins/vw-social-media/assets/webfonts/fa-solid-900.woff2
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\vw-social-media\assets\webfonts\fa-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: http://gmile.com.ua/wp-content/plugins/wpglobus/flags/ua.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\wpglobus\flags\ua.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/plugins/wpglobus/flags/us.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\wpglobus\flags\us.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/plugins/wpglobus/includes/css/wpglobus.css?ver=2.10.10
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\wpglobus\includes\css\wpglobus.css
+Content Type: text/css
+
+Uri: http://gmile.com.ua/wp-content/plugins/wpglobus/includes/js/wpglobus.min.js?ver=2.10.10
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\plugins\wpglobus\includes\js\wpglobus.min.js
+Content Type: application/javascript
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/css/animation.css?ver=6.2
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\css\animation.css
+Content Type: text/css
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/css/bootstrap.min.css?ver=6.2
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/css/custom-animation.css?ver=6.2
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\css\custom-animation.css
+Content Type: text/css
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/css/effect.css?ver=6.2
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\css\effect.css
+Content Type: text/css
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/css/fontawesome-all.min.css?ver=6.2
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\css\fontawesome-all.min.css
+Content Type: text/css
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/css/main-css/header-footer.css
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\css\main-css\header-footer.css
+Content Type: text/css
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/css/main-css/home-page.css
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\css\main-css\home-page.css
+Content Type: text/css
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/css/main-css/mobile-main.css
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\css\main-css\mobile-main.css
+Content Type: text/css
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/css/main-css/other-pages.css
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\css\main-css\other-pages.css
+Content Type: text/css
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/css/owl.carousel.css?ver=6.2
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\css\owl.carousel.css
+Content Type: text/css
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/images/author.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\images\author.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/images/comments.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\images\comments.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/images/contactme.jpg
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\images\contactme.jpg
+Content Type: image/jpeg
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/images/date.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\images\date.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/images/listicon.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\images\listicon.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/images/specialitybg.jpg
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\images\specialitybg.jpg
+Content Type: image/jpeg
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/js/bootstrap.min.js?ver=6.2
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/js/custom.js?ver=6.2
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\js\custom.js
+Content Type: application/javascript
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/js/jquery.appear.js?ver=6.2
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\js\jquery.appear.js
+Content Type: application/javascript
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/js/owl.carousel.js?ver=6.2
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\js\owl.carousel.js
+Content Type: application/javascript
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/js/SmoothScroll.js?ver=6.2
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\js\SmoothScroll.js
+Content Type: application/javascript
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/js/tether.js?ver=6.2
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\js\tether.js
+Content Type: application/javascript
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/js/vw-one-page.js?ver=6.2
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\js\vw-one-page.js
+Content Type: application/javascript
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/webfonts/fa-brands-400.eot
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/webfonts/fa-brands-400.eot?
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/webfonts/fa-brands-400.svg
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/webfonts/fa-brands-400.woff
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/webfonts/fa-brands-400.woff2
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\webfonts\fa-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/webfonts/fa-regular-400.eot
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/webfonts/fa-regular-400.eot?
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/webfonts/fa-regular-400.svg
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/webfonts/fa-regular-400.woff
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/webfonts/fa-regular-400.woff2
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\webfonts\fa-regular-400.woff2
+Content Type: application/font-woff2
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/webfonts/fa-solid-900.eot
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/webfonts/fa-solid-900.eot?
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/webfonts/fa-solid-900.svg
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/webfonts/fa-solid-900.woff
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/assets/webfonts/fa-solid-900.woff2
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\assets\webfonts\fa-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: http://gmile.com.ua/wp-content/themes/vw-one-page-pro/style.css?ver=6.2
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\themes\vw-one-page-pro\style.css
+Content Type: text/css
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/08/Презентація-групи-компаній-Balex.pdf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\08\Презентація-групи-компаній-Balex.pdf
+Content Type: application/pdf
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/08/blog1-300x141.jpg
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\08\blog1-300x141.jpg
+Content Type: image/jpeg
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/08/blog1.jpg
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\08\blog1.jpg
+Content Type: image/jpeg
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/08/blog2-300x141.jpg
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\08\blog2-300x141.jpg
+Content Type: image/jpeg
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/08/blog2.jpg
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\08\blog2.jpg
+Content Type: image/jpeg
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/08/blog3-300x141.jpg
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\08\blog3-300x141.jpg
+Content Type: image/jpeg
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/08/blog3.jpg
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\08\blog3.jpg
+Content Type: image/jpeg
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/08/d091d0b0d0bbd0b5d0bad181-d0bad0bed0bcd0bfd0b0d0bdd0b8-d0b1d0b5d0bbd18bd0b9-2-e1651555564130.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\08\d091d0b0d0bbd0b5d0bad181-d0bad0bed0bcd0bfd0b0d0bdd0b8-d0b1d0b5d0bbd18bd0b9-2-e1651555564130.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/10/arrow-down-active-1.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\10\arrow-down-active-1.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/10/arrow-down.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\10\arrow-down.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/11/Золотая-миля-квадратный-укр-e1675865598142.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\11\Золотая-миля-квадратный-укр-e1675865598142.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/11/Золота-миля-широкоформат-укр.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\11\Золота-миля-широкоформат-укр.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/11/Логотип-Золотая-миля-широкоформатный_ua-1.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\11\Логотип-Золотая-миля-широкоформатный_ua-1.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/11/логотип-Золотая-миля_ua-1-e1670009671581.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\11\логотип-Золотая-миля_ua-1-e1670009671581.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/11/логотип-ХДЗ_ua-продукт-Украины-1.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\11\логотип-ХДЗ_ua-продукт-Украины-1.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/11/логотип-ХДЗ_ua-продукт-Украины-e1670009866860.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\11\логотип-ХДЗ_ua-продукт-Украины-e1670009866860.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/11/логотип-пивна-легенда_ua-1-e1670010035223.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\11\логотип-пивна-легенда_ua-1-e1670010035223.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/11/логотип-слобожанский-шоколад_ua-1-e1670009998169.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\11\логотип-слобожанский-шоколад_ua-1-e1670009998169.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/11/логотип-Iновацiйний-центр_ua.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\11\логотип-Iновацiйний-центр_ua.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/11/логотип-optima_eng-1-e1670009955339.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\11\логотип-optima_eng-1-e1670009955339.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/11/3850043156_6c7ae194d9_h.jpg
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\11\3850043156_6c7ae194d9_h.jpg
+Content Type: image/jpeg
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/11/Bread2-scaled-e1668089785740.jpg
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\11\Bread2-scaled-e1668089785740.jpg
+Content Type: image/jpeg
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/11/Optima.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\11\Optima.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/Глазур-та-маса-кондитерська.pdf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\Глазур-та-маса-кондитерська.pdf
+Content Type: application/pdf
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/Дріжджі-пресовані.pdf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\Дріжджі-пресовані.pdf
+Content Type: application/pdf
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/Наповнювачі.pdf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\Наповнювачі.pdf
+Content Type: application/pdf
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/Поліпшувачі.pdf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\Поліпшувачі.pdf
+Content Type: application/pdf
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/Сухі-суміші.pdf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\Сухі-суміші.pdf
+Content Type: application/pdf
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/инновационный-центр-1.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\инновационный-центр-1.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/пекарь-кондитер.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\пекарь-кондитер.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/пиная-легенда.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\пиная-легенда.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/Balex-company-2022-eng.pdf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\Balex-company-2022-eng.pdf
+Content Type: application/pdf
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/Balex_obl-300x150.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\Balex_obl-300x150.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/COMPRESSED-BAKERY-YEAST.pdf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\COMPRESSED-BAKERY-YEAST.pdf
+Content Type: application/pdf
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/Dry-mixes-.pdf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\Dry-mixes-.pdf
+Content Type: application/pdf
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/Fillings.pdf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\Fillings.pdf
+Content Type: application/pdf
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/fixture_obl_-300x150.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\fixture_obl_-300x150.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/futer-da.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\futer-da.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/Glaze-and-cocoa-paste.pdf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\Glaze-and-cocoa-paste.pdf
+Content Type: application/pdf
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/glaze-mass_obl-300x150.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\glaze-mass_obl-300x150.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/Improvers-.pdf
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\Improvers-.pdf
+Content Type: application/pdf
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/Korpiek-da-1.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\Korpiek-da-1.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/napovn_obl-300x150.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\napovn_obl-300x150.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/Pesla-da-1.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\Pesla-da-1.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/Pille-da.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\Pille-da.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/pk-correct.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\pk-correct.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/polipsh_obl-300x150.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\polipsh_obl-300x150.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/slobchok-correct.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\slobchok-correct.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/Ukraine-futer-da.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\Ukraine-futer-da.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/vel-pitar-da.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\vel-pitar-da.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2022/12/yeast_obl-300x150.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2022\12\yeast_obl-300x150.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2023/01/Аметист-Плюс.jpg
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2023\01\Аметист-Плюс.jpg
+Content Type: image/jpeg
+
+Uri: http://gmile.com.ua/wp-content/uploads/2023/01/Горянка.jpg
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2023\01\Горянка.jpg
+Content Type: image/jpeg
+
+Uri: http://gmile.com.ua/wp-content/uploads/2023/01/Файно-Маркет.jpg
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2023\01\Файно-Маркет.jpg
+Content Type: image/jpeg
+
+Uri: http://gmile.com.ua/wp-content/uploads/2023/01/BBB-150x150.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2023\01\BBB-150x150.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2023/01/BBB.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2023\01\BBB.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2023/01/ChocoVia.jpg
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2023\01\ChocoVia.jpg
+Content Type: image/jpeg
+
+Uri: http://gmile.com.ua/wp-content/uploads/2023/01/Lukas.jpg
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2023\01\Lukas.jpg
+Content Type: image/jpeg
+
+Uri: http://gmile.com.ua/wp-content/uploads/2023/01/podlozhka-kond-scaled.jpg
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2023\01\podlozhka-kond-scaled.jpg
+Content Type: image/jpeg
+
+Uri: http://gmile.com.ua/wp-content/uploads/2023/01/Srimul.jpg
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2023\01\Srimul.jpg
+Content Type: image/jpeg
+
+Uri: http://gmile.com.ua/wp-content/uploads/2023/01/SweeTale.jpg
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2023\01\SweeTale.jpg
+Content Type: image/jpeg
+
+Uri: http://gmile.com.ua/wp-content/uploads/2023/02/зм-1-e1677584435715.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2023\02\зм-1-e1677584435715.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2023/02/зм.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2023\02\зм.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2023/02/зм_2-1-e1677584608567.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2023\02\зм_2-1-e1677584608567.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2023/02/зм_2.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2023\02\зм_2.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2023/02/лого-в-футер.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2023\02\лого-в-футер.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2023/02/пл-1-e1677584653961.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2023\02\пл-1-e1677584653961.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2023/02/пл.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2023\02\пл.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2023/02/слобож-шоколад-1-e1677584561803.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2023\02\слобож-шоколад-1-e1677584561803.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2023/02/слобож-шоколад.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2023\02\слобож-шоколад.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-content/uploads/2023/02/MADE-IN-UA-300x89.png
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-content\uploads\2023\02\MADE-IN-UA-300x89.png
+Content Type: image/png
+
+Uri: http://gmile.com.ua/wp-includes/css/classic-themes.min.css?ver=6.2
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: http://gmile.com.ua/wp-includes/css/dist/block-library/style.min.css?ver=6.2
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://gmile.com.ua/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: http://gmile.com.ua/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/javascript
+
+Uri: http://gmile.com.ua/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: http://gmile.com.ua/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://gmile.com.ua/wp-includes/js/jquery/jquery.min.js?ver=3.6.3
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://gmile.com.ua/wp-includes/js/utils.min.js?ver=6.2
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-includes\js\utils.min.js
+Content Type: application/javascript
+
+Uri: http://gmile.com.ua/wp-includes/wlwmanifest.xml
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://gmile.com.ua/wp-json/
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2F
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2F&format=xml
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2F2022%2F08%2F29%2Fblog-1%2F
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2F2022%2F08%2F29%2Fblog-1%2F&format=xml
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2F2022%2F08%2F29%2Fblog-2%2F
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2F2022%2F08%2F29%2Fblog-2%2F&format=xml
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2F2022%2F08%2F29%2Fblog-3%2F
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2F2022%2F08%2F29%2Fblog-3%2F&format=xml
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2F2022%2F08%2F29%2Fblog-4%2F
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2F2022%2F08%2F29%2Fblog-4%2F&format=xml
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2F2022%2F08%2F29%2Fhello-world%2F
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2F2022%2F08%2F29%2Fhello-world%2F&format=xml
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2F2022%2F08%2F29%2Fpraesent-suscipit-m1%2F
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2F2022%2F08%2F29%2Fpraesent-suscipit-m1%2F&format=xml
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2F2022%2F08%2F29%2Fpraesent-suscipit-m2%2F
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2F2022%2F08%2F29%2Fpraesent-suscipit-m2%2F&format=xml
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2F2022%2F08%2F29%2Fpraesent-suscipit-m3%2F
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2F2022%2F08%2F29%2Fpraesent-suscipit-m3%2F&format=xml
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2Ftestimonials%2F%25d1%2582%25d0%25b5%25d1%2581%25d1%2582-%25d0%25b2%25d0%25b8%25d0%25b4%25d0%25b5%25d0%25be%2F
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2Ftestimonials%2F%25d1%2582%25d0%25b5%25d1%2581%25d1%2582-%25d0%25b2%25d0%25b8%25d0%25b4%25d0%25b5%25d0%25be%2F&format=xml
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2Ftestimonials%2F%25d1%2582%25d0%25b5%25d1%2581%25d1%2582-%25d0%25b2%25d0%25b8%25d0%25b4%25d0%25b5%25d0%25be-2%2F
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2Ftestimonials%2F%25d1%2582%25d0%25b5%25d1%2581%25d1%2582-%25d0%25b2%25d0%25b8%25d0%25b4%25d0%25b5%25d0%25be-2%2F&format=xml
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2Ftestimonials%2Ftestimonial1%2F
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2Ftestimonials%2Ftestimonial1%2F&format=xml
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2Ftestimonials%2Ftestimonial2%2F
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2Ftestimonials%2Ftestimonial2%2F&format=xml
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2Ftestimonials%2Ftestimonial3%2F
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: http://gmile.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fgmile.com.ua%2Ftestimonials%2Ftestimonial3%2F&format=xml
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: http://gmile.com.ua/wp-json/wp/v2/categories/1
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: http://gmile.com.ua/wp-json/wp/v2/pages/11
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\wp\v2\pages\11
+Content Type: application/json
+
+Uri: http://gmile.com.ua/wp-json/wp/v2/posts/1
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\wp\v2\posts\1
+Content Type: application/json
+
+Uri: http://gmile.com.ua/wp-json/wp/v2/posts/10
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\wp\v2\posts\10
+Content Type: application/json
+
+Uri: http://gmile.com.ua/wp-json/wp/v2/posts/46
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\wp\v2\posts\46
+Content Type: application/json
+
+Uri: http://gmile.com.ua/wp-json/wp/v2/posts/48
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\wp\v2\posts\48
+Content Type: application/json
+
+Uri: http://gmile.com.ua/wp-json/wp/v2/posts/50
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\wp\v2\posts\50
+Content Type: application/json
+
+Uri: http://gmile.com.ua/wp-json/wp/v2/posts/7
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\wp\v2\posts\7
+Content Type: application/json
+
+Uri: http://gmile.com.ua/wp-json/wp/v2/posts/8
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\wp\v2\posts\8
+Content Type: application/json
+
+Uri: http://gmile.com.ua/wp-json/wp/v2/posts/9
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\wp\v2\posts\9
+Content Type: application/json
+
+Uri: http://gmile.com.ua/wp-json/wp/v2/users/1
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fgmile.com.ua%252F2022%252F08%252F29%252Fblog-1%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=uk_UA&_rdr
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\login-12.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fgmile.com.ua%252F2022%252F08%252F29%252Fblog-2%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=uk_UA&_rdr
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\login-13.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fgmile.com.ua%252F2022%252F08%252F29%252Fblog-3%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=uk_UA&_rdr
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fgmile.com.ua%252F2022%252F08%252F29%252Fblog-4%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=uk_UA&_rdr
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fgmile.com.ua%252F2022%252F08%252F29%252Fhello-world%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=uk_UA&_rdr
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fgmile.com.ua%252F2022%252F08%252F29%252Fpraesent-suscipit-m1%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=uk_UA&_rdr
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fgmile.com.ua%252F2022%252F08%252F29%252Fpraesent-suscipit-m2%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=uk_UA&_rdr
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fgmile.com.ua%252F2022%252F08%252F29%252Fpraesent-suscipit-m3%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=uk_UA&_rdr
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fgmile.com.ua%252Fen%252F2022%252F08%252F29%252Fblog-1%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=uk_UA&_rdr
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\login-14.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fgmile.com.ua%252Fen%252F2022%252F08%252F29%252Fblog-2%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=uk_UA&_rdr
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\login-15.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fgmile.com.ua%252Fen%252F2022%252F08%252F29%252Fblog-3%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=uk_UA&_rdr
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\login-10.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fgmile.com.ua%252Fen%252F2022%252F08%252F29%252Fblog-4%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=uk_UA&_rdr
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fgmile.com.ua%252Fen%252F2022%252F08%252F29%252Fhello-world%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=uk_UA&_rdr
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\login-11.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fgmile.com.ua%252Fen%252F2022%252F08%252F29%252Fpraesent-suscipit-m1%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=uk_UA&_rdr
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fgmile.com.ua%252Fen%252F2022%252F08%252F29%252Fpraesent-suscipit-m2%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=uk_UA&_rdr
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fgmile.com.ua%252Fen%252F2022%252F08%252F29%252Fpraesent-suscipit-m3%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=uk_UA&_rdr
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://www.google.com/recaptcha/api.js?render=6Ld6d84iAAAAAOp48gCH5AvhN2a_joxAh8JImr8I&ver=3.0
+File Name: C:\Users\svoro\Documents\downloaded_sites\gmile.com.ua\recaptcha\api.js
+Content Type: text/javascript
+
